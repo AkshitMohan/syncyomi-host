@@ -1,0 +1,10 @@
+host = "0.0.0.0"
+port = 8282
+
+DatabaseType = "postgres"
+PostgresHost = "<your-neon-host>"
+PostgresPort = "5432"
+PostgresDatabase = "<your-neon-db-name>"
+PostgresUser = "<your-neon-user>"
+PostgresPass = "<your-neon-password>"
+PostgresSSLMode = "require"
